@@ -1,0 +1,30 @@
+@charset "utf-8";
+/* CSS Document */
+
+.ls_block{ width:100%; background-color:#fff; border-bottom:1px solid #f7e9e9; padding:0.5rem 0; float:left;}
+.ls_img{ width:33%; float:left;  background-size:auto 10rem ; margin-left:0.5rem;}
+.ls_text{ width:60%; float:left; margin-left:10px; line-height:1.3rem;}
+.ls_texth{ color:#8A8A8A; line-height:1.3rem; margin:5px 0 30px 0;}
+.ls_textd{ color:#ACACAC; }
+.ls_textbt{ font-size:1rem; margin:5px 0;}
+.ls_tx{ width:100%; height:20rem; float:left; background:url(../images/tx_bg.jpg) no-repeat;}
+.ls_tximg{
+	width:8rem; height:8rem;
+	margin:0 auto;
+	overflow:hidden;
+	border-radius:4rem;
+	background-position: center center; margin-top:25px;
+}
+.ls_tximg img{ width:100%;}
+.ls_txcen{ width:100%; text-align:center; margin:0 auto; color:#fff;}
+.ls_bg{ width:100%; background-color:#FFF; height:auto;}
+.lsxq_img{ width:80%; float:left; margin:20px 10% 0 10%;}
+.lsxq_img img { width:100%;}
+
+.lsxq_text{ width:90%; float:left; padding:5% 5% 0 5%;}
+.ls_textbt02{ font-size:1.5rem; font-weight:bold; padding:15px 0; margin:10px 0 0 0;}
+
+.ls_dianhua{ width:24%; float:left; height:5rem; background-size:auto 5rem;}
+.ls_haoma{ width:70%; height:5rem; float:left; margin-top:10px; margin-left:10px;}
+.tshm{font-style:italic; font-weight:bold; color:#ff8a00; font-size:2rem;}
+.ls_texthff{ color:#8A8A8A; line-height:30px;}

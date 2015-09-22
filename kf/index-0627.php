@@ -1,0 +1,7 @@
+<?php
+
+//ÅÐ¶ÏÎ¢ÐÅ»áÔ±
+//include_once ('../weixin/weixin.auth.php');
+include('new_mobile_t2.php');
+
+?>

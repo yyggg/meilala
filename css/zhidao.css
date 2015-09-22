@@ -1,0 +1,56 @@
+@charset "utf-8";
+/* CSS Document */
+body,ol,ul,h1,h2,h3,h4,h5,h6,p,th,td,dl,dd,form,fieldset,legend,input,textarea,select{margin:0;padding:0} 
+body{font:0.875rem "宋体","Arial Narrow",HELVETICA;background:#f4f4f4;-webkit-text-size-adjust:100%;} 
+a{color:#2d374b;text-decoration:none} 
+a:hover{color:#cd0200;text-decoration:underline} 
+em{font-style:normal} 
+li{list-style:none} 
+img{border:0;vertical-align:middle;} 
+table{border-collapse:collapse;border-spacing:0} 
+p{word-wrap:break-word} 
+ipnut{outline: none;}
+.fl	{ float:left;}
+.fr	{ float:right;}
+.cl	{ clear:both;}
+.main_color{ color:#673f88 !important; font-weight:bolder;}
+.half{ width:50%;}
+
+/*--*/
+.center{ max-width:640px; margin:0 auto;}
+.main01{ width:100%; margin:0 auto; background:#4b1c7c; height:22.7rem/363px;}
+.main01 .center img { width:100%;}
+.main02{width:100%; margin:0 auto;  height:32rem/363px;}
+.main02_img{ width:90%; float:left;}
+.main02_img img { width:100%;}
+.main02_text{ width:90%; float:left; text-align:left; margin:5%; padding-top:10px;}
+.main02_textbt{ width:96%; font-size:2.5rem; font-size:25px; color:#ec498a; padding:5px 0; margin:0 2%;}
+.main02_textnr{ width:96%; font-size:1.4rem/14px; color:#666; line-height:1.5rem; margin:0 2%;}
+
+.main03_bt{ width:100%; text-align:center; font-size:2.5rem; font-size:25px;  padding:15px 0 10px 0;}
+
+.main03{ width:100%; margin:0 auto; background:#ff7975;  color:#FFF; padding:10px 0;}
+.main03_block{ width:100%; float:left;}
+.peitu{ width:30%; float:left;}
+.peitu img{ width:100%;}
+.m_blockts{ width:68%; float:left; text-align:left; margin-top:15px;}
+.m_blocktt{ font-size:1.6rem/16px; padding:5px 0;}
+.m_blockte{ font-size:1.4rem/14px; line-height:1.5rem/24px;}
+
+.main04{width:100%; margin:0 auto;  padding:10px 0;}
+.main04 .center img { width:100%;}
+
+.main05{width:100%; margin:0 auto;  padding:15px 0; background-color:#ec498a; color:#fff;}
+.peitu02{ width:35%; float:left; margin-top:15px;}
+.peitu02 img{ width:100%;}
+
+.m_blockts02{ width:63%; float:left; text-align:left; margin-top:15px;}
+.m_blocktt02{ font-size:1.6rem/16px; padding:5px 0;}
+.m_blockte02{ font-size:1.4rem/14px; line-height:1.5rem/24px;}
+
+.main06{width:100%; margin:0 auto;  padding:15px 0; background-color:#525252; color:#fff;}
+.mian06_tf{width:94%; float:left; text-align:left; font-size:1.2rem/14px; line-height:1.6rem; margin-left:2%; margin-top:15px; margin-bottom:5px;}
+
+@media  (min-width: 640px){
+.center{ width:100%; margin:0 auto;}
+}

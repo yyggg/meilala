@@ -1,0 +1,20 @@
+.Dialogtable tbody, .Dialogtable tr ,.Dialogtable td{ width:100% !important ; display:block;}
+.Draghandle1 ,.Draghandle3,.DragContent1,.DragContent3,.DragFooter1,.DragFooter3{ display:none !important;}
+.Draghandle2		{ height:2.5rem !important; text-align:center; background:none !important; }
+.Draghandle2 span	{ color:#555; line-height:2.5rem; font-size:0.875rem; width:100%; padding-left:0.5rem;}
+.Draghandle2 div	{ background:none !important;}
+.Dialogtable div 	{ width:auto;}
+.Dialogtable		{/* width:70% !important; margin:0 auto; min-width:250px !important;*/ border-radius:8px!important; overflow:hidden;  /*display:block !important; table-layout:fixed;*/ background:#fff;}
+.DragContent2 .inform{ height:80px; line-height:60px; vertical-align:middle;}
+.ButtonRow			{}
+.ButtonRow	div		{ border-top:0px !important; text-align:center !important;}
+.ButtonRow .buttonStyle{ height:24px; border-radius:5px; width:80px; border:0px!important; padding:0px!important; background:#633283;outline:none; color:#fff;}
+
+a[href='http://www.cnzz.com/stat/website.php?web_id=1255877391']{display: none;}
+
+
+
+
+
+
+

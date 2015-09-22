@@ -1,0 +1,4 @@
+.admin_big_img	{ width:100%;position:absolute; background:rgba(0,0,0,0.6); height:100%; top:0px; left:0px;z-index:800009; text-align:center;}
+.admin_big_img img{ height:80%;z-index:800009; top:10%; margin:0 auto;}
+.big_img_close	{ width:30%; position:absolute; bottom:0px; right:0px; height:30px; background:#fff; z-index:800009; border-radius:8px; margin:10px; line-height:30px; }
+#upform			{width: 22px;height: 22px;margin-left: 10px; float:left;}
